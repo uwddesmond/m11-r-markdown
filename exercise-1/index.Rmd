@@ -51,10 +51,10 @@ movie.info <- GetReview(movie)
 
 ```
 
-# movie
+# r movie
 
-## movie.info$headline
+## r movie.info$headline
 
-> movie.info$summary
+> r movie.info$summary
 
-movie.info$link
+[link]('r movie.info$link')
